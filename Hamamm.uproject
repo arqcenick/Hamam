@@ -10,6 +10,18 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "MLDeformerFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "NeuralMorphModel",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosFleshGenerator",
+			"Enabled": true
 		}
 	]
 }
